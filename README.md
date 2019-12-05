@@ -1,4 +1,4 @@
-# Tic-Toc-Toe-React
+# Tic-Toc-Toe-React :video_game:
 
 ## About this Project
 
